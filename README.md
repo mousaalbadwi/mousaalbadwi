@@ -72,10 +72,11 @@
 ---
 
 ## 🕹️ Contribution Game (Snake)
+
 <p align="center">
-  <!-- يتطلب GitHub Action ليولّد الملف svg -->
-  <img src="https://github.com/mousaalbadwi/mousaalbadwi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation showing contributions grid being eaten"/>
+  <img src="https://raw.githubusercontent.com/mousaalbadwi/mousaalbadwi/output/github-contribution-grid-snake.svg" alt="Snake animation showing contributions grid being eaten" />
 </p>
+
 
 ---
 
