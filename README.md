@@ -1,161 +1,87 @@
 <!-- ==================== PROFILE HEADER ==================== -->
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius: 50%; border: 2px solid #555" alt="Mousa Profile Picture" />
+  <!-- استبدل الرابط بصورتك الفعلية أو اتركه للافتراضي -->
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" alt="Mousa Al-Badawi profile photo (rounded)" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Mousa+Al-Badawi+👋;Software+Engineer+%7C+Mobile+%26+Web+Developer;Flutter+%7C+ASP.NET+%7C+C%2B%2B+%7C+PHP+%7C+Java;I+build+clean+%26+scalable+solutions" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&height=45&duration=2500&lines=Hi%2C+I'm+Mousa+Al-Badawi+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+%26+Web+Developer;Flutter+%7C+ASP.NET+Core+%7C+Java+%7C+C%2B%2B+%7C+PHP;I+build+clean%2C+accessible%2C+scalable+apps"
+    alt="Typing intro"
+  />
 </p>
 
-<h1 align="center">Hi 👋, I'm Mousa Al-Badawi</h1>
-<h3 align="center">💻 Software Engineer | Mobile & Web Developer | Problem Solver</h3>
+<h1 align="center">Mousa Al-Badawi</h1>
+<h3 align="center">💻 Software Engineer · Mobile & Web · Problem Solver</h3>
+
+<p align="center">
+  <a href="mailto:moeyad2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mousa-mustafa-798822277/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="tel:+962795960252"><img alt="Call" src="https://img.shields.io/badge/Call-25D366?logo=whatsapp&logoColor=white"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mousaalbadwi&style=flat&color=blueviolet">
+</p>
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 Final-year student in **Software Engineering**
-- 💻 Specializing in **Flutter** and **ASP.NET Core**
-- 🧠 Passionate about building **intelligent, scalable apps**
-- 🚀 Projects: **Nabd**, **Tek Store**, **University Management**
+- 🎓 Final-year **Software Engineering** student  
+- 📱 Focused on **Flutter** (mobile) & **ASP.NET Core** (web/backend)  
+- 🧠 Into **AI/ML** integrations and accessibility-first UX  
+- 🧩 Projects: **Nabd**, **Tek Store**, **University System**, **Employee Manager**
 
 ---
 
-## 📫 Connect with Me
-
+## 🧠 Skills & Tech
 <p align="center">
-  <a href="mailto:moeyad2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mousa-mustafa-798822277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+962795960252"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,java,cpp,php,html,css,js,ts,bootstrap,jquery,mysql,sqlite,postgres,sqlserver,git,github,linux,vscode,visualstudio&perline=11" alt="Tech stack icons"/>
 </p>
 
 ---
 
-## 💼 My Projects
-| 💡 Project | 🔍 Description |
-|-----------|----------------|
-| 🎓 **University System** | ASP.NET system for full course & exam control |
-| 🛒 **Tek Store** | Stylish responsive online store |
-| 👨‍💼 **Employee Manager** | Admin dashboard w/ CRUD features |
-| 📱 **Nabd App** | Flutter MVP with OCR, TTS, AI for blind users |
+## 💼 Selected Projects
+| 💡 Project | 🔍 Description | 🔗 Link |
+|---|---|---|
+| 📱 **Nabd (Assistive Reader)** | Flutter MVP with OCR, TTS, guidance & AI for visually-impaired users | *(soon/public)* |
+| 🛒 **Tek Store** | Responsive e-commerce (frontend + basic admin) | *(repo/link)* |
+| 🎓 **University System** | ASP.NET Core: courses, exams, roles, dashboards | *(repo/link)* |
+| 👨‍💼 **Employee Manager** | CRUD admin panel, auth, reports | *(repo/link)* |
 
----
-
-## 🧠 Skills & Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,java,cpp,php,html,css,js,ts,bootstrap,jquery,mysql,sqlserver,git,github,vscode,visualstudio&perline=9" />
-</p>
+> ضع الروابط الحقيقية لمشاريعك بدل *(repo/link)*.
 
 ---
 
 ## 🏆 Certificates
-
-- ✅ **Full Stack Web Dev** – Al-Azimah  
-- ✅ **QA Testing** – Hope Int’l  
-- ✅ **Flutter** – Orange Coding Academy  
-- ✅ **ASP.NET MVC** – 01Tracks  
-- ✅ **WordPress Dev** – DOT Jordan
+- **Full-Stack Web Dev** – Al-Azimah  
+- **QA Testing** – Hope Int’l  
+- **Flutter** – Orange Coding Academy  
+- **ASP.NET MVC** – 01Tracks  
+- **WordPress Dev** – DOT Jordan  
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mousaalbadwi&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousaalbadwi&layout=compact&theme=tokyonight" width="340"/>
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mousaalbadwi&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" width="440" />
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousaalbadwi&layout=compact&hide_border=true&theme=tokyonight" width="360" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousaalbadwi&theme=tokyonight" width="740"/>
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mousaalbadwi&theme=tokyonight&hide_border=true" width="820" />
 </p>
 
 ---
 
-
-## 🧠 About Me
-I'm a **Software Engineer** passionate about building **scalable applications** and solving **real-world problems** with clean code.
-
-🔧 Currently working on:
-- 📱 Mobile Dev with Flutter  
-- 🌐 Web Dev using ASP.NET Core (MVC)  
-- 🚀 Projects: **Nabd**, **Tek Store**, **University System**
-
----
-
-## 📞 Contact Me
+## 🕹️ Contribution Game (Snake)
 <p align="center">
-  <a href="mailto:moeyad2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mousa-mustafa-798822277/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+962795960252"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <!-- يتطلب GitHub Action ليولّد الملف svg -->
+  <img src="https://github.com/mousaalbadwi/mousaalbadwi/raw/output/github-contribution-grid-snake.svg" alt="Snake animation showing contributions grid being eaten"/>
 </p>
-
----
-
-## 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,java,cpp,php,html,css,js,ts,bootstrap,jquery,mysql,sqlserver,git,github,visualstudio,vscode&perline=10" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🎓 **University Education System** | ASP.NET MVC system for full course/exam management |
-| 🛍️ **Tek Store** | E-commerce website with responsive design |
-| 🧑‍💼 **Employee Manager** | Web app to manage employee data |
-| 📱 **Nabd (Flutter + AI)** | Assistive reader for visually impaired with OCR, voice ID & TTS |
-
----
-
-## 🧾 Certificates
-- 🧠 **Full Stack Web Dev** – Al-Azimah  
-- 🧪 **QA Testing** – Hope Int’l  
-- 🖥️ **WordPress** – DOT Jordan  
-- 📱 **Flutter Dev** – Orange Coding Academy  
-- 💻 **ASP.NET Core MVC** – 01Tracks  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mousaalbadwi&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousaalbadwi&layout=compact&theme=radical" width="320" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousaalbadwi&theme=radical" width="720" />
-</p>
-
----
-
-## 🕹️ Contribution Game — "Code Snake"
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmedaldarabee/ahmedaldarabee/output/github-contribution-grid-snake.svg" alt="snake game animation" />
-</p>
-
-> 🔥 _This shows your contributions as a game – make sure you activate GitHub Actions to generate it daily!_  
-> Add the GitHub Action yourself or احكيلي أجهزه لك 💪
-
----
-
-## 🧠 Soft Skills
-```yaml
-✔️ Teamwork            ✔️ Problem Solving
-✔️ Communication       ✔️ Time Management
-✔️ Critical Thinking   ✔️ Fast Learner
-✔️ Flexibility         ✔️ Leadership
-
-- 🧠 **Quote Carousel** (اختياري)
-- 📦 **Pinned Projects Section** (بالمستقبل)
 
 ---
 
 ## ✨ Quote of the Day
-> "Whether you think you can or think you can't – you're right." – Henry Ford
+> *"Whether you think you can or think you can't – you're right."* — Henry Ford
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=80&section=footer" alt="Footer wave"/>
 </p>
