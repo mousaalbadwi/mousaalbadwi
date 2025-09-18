@@ -71,31 +71,6 @@
 
 ---
 
-## 🕹️ Contribution Game (Snake - Enhanced)
-
-<p align="center">
-  <img src="https://github.com/mousaalbadwi/mousaalbadwi/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-## 🧩 Extras
-
-- 🔄 **Daily Auto Updates** (via GitHub Actions)
-- 🌍 **Visitor Map** (اختياري)<!-- Profile Picture -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mousaalbadwi/mousaalbadwi/main/ee9b4ba9-1875-4f23-9fec-a5016df51da9.png" width="160" style="border-radius: 50%" />
-</p>
-
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&width=600&lines=Hi+I'm+Mousa+Al-Badawi+👋;Software+Engineer+%7C+Flutter+%26+ASP.NET+Dev;Building+clean+%2B+scalable+apps;Let's+code+something+awesome!" />
-</p>
-
-<h1 align="center">Hi there, I'm Mousa Al-Badawi 👋</h1>
-<h3 align="center">💻 Software Engineer | Flutter & Web Developer</h3>
-
----
 
 ## 🧠 About Me
 I'm a **Software Engineer** passionate about building **scalable applications** and solving **real-world problems** with clean code.
