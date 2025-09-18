@@ -77,10 +77,7 @@ I'm a **Software Engineer** passionate about building **scalable applications** 
   <img src="https://raw.githubusercontent.com/ahmedaldarabee/ahmedaldarabee/output/github-contribution-grid-snake.svg" alt="snake game animation" />
 </p>
 
-> 🔥 _This shows your contributions as a game – make sure you activate GitHub Actions to generate it daily!_  
-> Add the GitHub Action yourself or احكيلي أجهزه لك 💪
 
----
 
 ## 🧠 Soft Skills
 ```yaml
