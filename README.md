@@ -1,26 +1,28 @@
-<!-- Typing Animation -->
+<!-- Profile Header with Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hi+I'm+Mousa+Al-Badawi+👋;Software+Engineer+%7C+Flutter+%26+Web+Developer;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+  <img width="200" src="https://raw.githubusercontent.com/mousaalbadwi/mousaalbadwi/main/246d98fb-d0b3-40ab-a2f0-b82d00b326f2.png" alt="Mousa Al-Badawi Profile Picture" style="border-radius: 50%;" />
 </p>
 
-<!-- Title -->
 <h1 align="center">Hi there, I'm Mousa Al-Badawi 👋</h1>
 
-<h3 align="center">💻 Software Engineer | Mobile & Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&width=450&lines=Software+Engineer;Flutter+%7C+ASP.NET+Core+%7C+PHP+%7C+C%2B%2B+%7C+Java;Lifelong+Learner+%7C+Problem+Solver;Building+clean+and+scalable+solutions" alt="Typing Animation" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mousaalbadwi&label=Profile%20views&color=brightgreen&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mousaalbadwi&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 💻 About Me
+
 I'm a **Software Engineer** passionate about building **scalable applications** and solving **real-world problems** through clean and efficient code.
 
-Currently improving my skills in:
+### 🔧 Currently working on:
 - 📱 **Mobile App Development** with Flutter
-- 🌐 **Web Development** with ASP.NET Core (MVC)
-- 💡 Working on exciting projects like **Nabd App** and **Tek Store**
+- 🌐 **Web Development** using ASP.NET Core (MVC)
+- 🚀 Projects like **Nabd App** and **Tek Store**
 
 ---
 
@@ -39,14 +41,14 @@ Currently improving my skills in:
 
 ---
 
-## 🚀 Languages, Frameworks & Tools
+## 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,java,cpp,php,html,css,js,ts,bootstrap,jquery,mysql,sqlserver,git,github,visualstudio,vscode&perline=8" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 💼 Featured Projects
 
 | Project | Description |
 |--------|-------------|
@@ -57,7 +59,7 @@ Currently improving my skills in:
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mousaalbadwi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
@@ -72,30 +74,21 @@ Currently improving my skills in:
 
 ---
 
-## 📜 Certificates & Courses
+## 🧠 Certificates
 
-- ✅ **Full Stack Web Development** – Al-Azimah (108 hours)
-- ✅ **QA Testing** – The Hope International (40 hours)
-- ✅ **WordPress Development** – DOT Jordan (33 hours)
-- ✅ **Flutter Training** – Orange Coding Academy
-- ✅ **ASP.NET Core MVC Training** – 01Tracks
-
----
-
-## 💼 Experiences
-
-- 🟢 **Orange Coding Academy**: Mobile App Developer (Flutter)
-- 🟢 **01Tracks**: ASP.NET Core Trainee
-- 🟢 **Extensya**: Freelance Middle Agent
-- 🟢 **Al-Azimah**: Full Stack Course
-- 🟢 **Al Nahda**: Sales & Logistics Support
+- 🎓 **Full Stack Web Development** – Al-Azimah (108 hrs)
+- 🛠️ **QA Testing** – Hope Intl (40 hrs)
+- 🌐 **WordPress Sites** – DOT Jordan (33 hrs)
+- 📱 **Flutter Training** – Orange Coding Academy
+- 🔧 **ASP.NET Core MVC** – 01Tracks
 
 ---
 
-## 🧠 Soft Skills
+## 💬 Quote
+> "Some people dream of success, while others wake up and code it." ☕🚀
 
-```yaml
-✔️ Teamwork            ✔️ Problem Solving
-✔️ Communication       ✔️ Time Management
-✔️ Critical Thinking   ✔️ Fast Learner
-✔️ Flexibility         ✔️ Leadership
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
