@@ -2,31 +2,34 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # يعمل كل يوم في منتصف الليل
-  workflow_dispatch: # لتشغيله يدويًا من GitHub Actions
+    - cron: "0 0 * * *"   # يوميًا 00:00 UTC
+  workflow_dispatch:       # تشغيل يدوي
+
+# مهم: إعطاء إذن للـ GITHUB_TOKEN حتى يقدر يعمل push
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      # تنزيل الكود الخاص بالمشروع
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout (not strictly required, but safe)
+        uses: actions/checkout@v4
 
-      # توليد ملف الـ Snake
       - name: Generate Snake SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: mousaalbadwi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          outputs: dist/snake.svg
 
-      # رفع النتيجة إلى فرع output
-      - name: Push Snake to output branch
+      - name: Publish to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: dist
           publish_branch: output
           force_orphan: true
