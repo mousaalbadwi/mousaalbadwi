@@ -1,87 +1,80 @@
-<!-- ==================== PROFILE HEADER ==================== -->
+<!-- Luffy GIF Header -->
 <p align="center">
-  <!-- استبدل الرابط بصورتك الفعلية أو اتركه للافتراضي -->
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" alt="Mousa Al-Badawi profile photo (rounded)" />
+  <img src="https://media.tenor.com/BfXAFz2vguQAAAAC/luffy-one-piece.gif" width="200"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&height=45&duration=2500&lines=Hi%2C+I'm+Mousa+Al-Badawi+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+%26+Web+Developer;Flutter+%7C+ASP.NET+Core+%7C+Java+%7C+C%2B%2B+%7C+PHP;I+build+clean%2C+accessible%2C+scalable+apps"
-    alt="Typing intro"
-  />
-</p>
-
-<h1 align="center">Mousa Al-Badawi</h1>
-<h3 align="center">💻 Software Engineer · Mobile & Web · Problem Solver</h3>
+<h1 align="center">Hey there! I'm Mousa Mustafa 👋</h1>
 
 <p align="center">
-  <a href="mailto:moeyad2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mousa-mustafa-798822277/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="tel:+962795960252"><img alt="Call" src="https://img.shields.io/badge/Call-25D366?logo=whatsapp&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mousaalbadwi&style=flat&color=blueviolet">
+  <b>💻 Full-Stack Developer | Tech Enthusiast | Problem Solver 💡</b><br>
+  <i>Passionate about building impactful software and exploring new technologies 🚀</i>
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 Final-year **Software Engineering** student  
-- 📱 Focused on **Flutter** (mobile) & **ASP.NET Core** (web/backend)  
-- 🧠 Into **AI/ML** integrations and accessibility-first UX  
-- 🧩 Projects: **Nabd**, **Tek Store**, **University System**, **Employee Manager**
+## 🧠 About Me
+- 🔭 I'm currently working on exciting full-stack projects
+- 🌍 Based in Amman, Jordan
+- 🎯 I aim to be a top-tier software engineer
+- 🎓 Certified in Flutter, ASP.NET, Git & more
 
 ---
 
-## 🧠 Skills & Tech
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,java,cpp,php,html,css,js,ts,bootstrap,jquery,mysql,sqlite,postgres,sqlserver,git,github,linux,vscode,visualstudio&perline=11" alt="Tech stack icons"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
 </p>
 
 ---
 
-## 💼 Selected Projects
-| 💡 Project | 🔍 Description | 🔗 Link |
-|---|---|---|
-| 📱 **Nabd (Assistive Reader)** | Flutter MVP with OCR, TTS, real-time guidance for visually-impaired users | [View Repo](https://github.com/Abdallah-Allaham/Nabd) |
-| 🎓 **University System** | ASP.NET Core: courses, exams, roles, dashboards | [View Repo](https://github.com/mousaalbadwi/Muta-Engineering-) |
-| 👨‍💼 **Employee Manager (MousaTracks)** | CRUD admin panel, auth, basic reports | [View Repo](https://github.com/mousaalbadwi/MousaTracks) |
-| 🛒 **Tek/Goods System (Frontend)** | Responsive store UI (HTML/CSS/JS/Bootstrap) | [View Repo](https://github.com/mousaalbadwi/Goods-System) |
-| 🧾 **Import & Export (PHP/MySQL)** | Simple e-commerce backend prototype | [View Repo](https://github.com/mousaalbadwi/Import-and-Export-Goods-System) |
-| 🎥 **Camera Stream + OCR (Flutter)** | Camera streaming + text recognition experiment | [View Repo](https://github.com/mousaalbadwi/camerastream_textrecogniton) |
+## 🌟 Featured Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🛒 Store App | Full-featured mobile e-commerce app using Flutter + Firebase | [View Project](#) |
+| 🎓 Learning Platform | ASP.NET Core & React for online education | [View Project](#) |
+| 💬 Chat App | Real-time messaging app (Flutter + Firebase) | [View Project](#) |
 
 ---
 
-## 🏆 Certificates
-- **Full-Stack Web Dev** – Al-Azimah  
-- **QA Testing** – Hope Int’l  
-- **Flutter** – Orange Coding Academy  
-- **ASP.NET MVC** – 01Tracks  
-- **WordPress Dev** – DOT Jordan  
+## 📜 Certifications
+- ✅ Flutter Developer – Google/Udemy
+- ✅ ASP.NET Core Web API – Udemy
+- ✅ Git & GitHub Masterclass
 
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mousaalbadwi&show_icons=true&rank_icon=github&hide_border=true&theme=tokyonight" width="440" />
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mousaalbadwi&layout=compact&hide_border=true&theme=tokyonight" width="360" />
-</p>
 
 <p align="center">
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mousaalbadwi&theme=tokyonight&hide_border=true" width="820" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mousaalbadwi&show_icons=true&theme=radical" alt="Mousa's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mousaalbadwi&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=mousaalbadwi&theme=onedark&no-frame=true&title=Stars,Commits,Followers,Issues,PullRequest" alt="Trophies" />
 </p>
 
 ---
 
-## 🕹️ Contribution Game (Snake)
+## 📬 Contact Me
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mousaalbadwi/mousaalbadwi/output/snake.svg" alt="Snake animation over contributions grid" />
+  <a href="mailto:mousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/yourusername"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
-
 
 ---
 
-## ✨ Quote of the Day
-> *"Whether you think you can or think you can't – you're right."* — Henry Ford
-
+## 🌍 Visitor Map
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=80&section=footer" alt="Footer wave"/>
+  <img src="https://komarev.com/ghpvc/?username=mousaalbadwi&style=flat-square&color=blue" alt="Profile Views" />
+  <br />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 </p>
