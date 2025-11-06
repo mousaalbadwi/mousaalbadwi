@@ -1,8 +1,11 @@
 <!-- ==================== PROFILE HEADER ==================== -->
 <p align="center">
-  <!-- استبدل الرابط بصورتك الفعلية أو اتركه للافتراضي -->
-  <img src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d45bc6c6-7887-49f5-8b34-ec69bfa15d26" />
-" width="180" alt="Mousa Mustafa profile photo (rounded)" />
+  <img 
+  src="https://github.com/user-attachments/assets/d45bc6c6-7887-49f5-8b34-ec69bfa15d26" 
+  width="180" 
+  alt="Mousa Al-Badawi profile photo" 
+/>
+
 </p>
 
 <p align="center">
