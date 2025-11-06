@@ -13,8 +13,7 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=900&height=45&duration=2500&lines=Hi%2C+I'm+Mousa+Al-Badawi+%F0%9F%91%8B;Software+Engineer+%7C+Mobile+%26+Web+Developer;Flutter+%7C+ASP.NET+Core+%7C+Java+%7C+C%2B%2B+%7C+PHP;I+build+clean%2C+accessible%2C+scalable+apps"
     alt="Typing intro"
   />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  
 
 </p>
 
