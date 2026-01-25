@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center">Mousa Mustafa</h1>
-<h3 align="center">💻 Software Engineer · Mobile & Web · Problem Solver</h3>
+<h3 align="center">💻 Software Engineer ·QA & Web · Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:moeyad2003@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
