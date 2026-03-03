@@ -44,18 +44,6 @@
 
 ---
 
-## 💼 Selected Projects
-| 💡 Project | 🔍 Description | 🔗 Link |
-|---|---|---|
-| 📱 **Nabd (Assistive Reader)** | Flutter MVP with OCR, TTS, real-time guidance for visually-impaired users | [View Repo](https://github.com/Abdallah-Allaham/Nabd) |
-| 🎓 **University System** | ASP.NET Core: courses, exams, roles, dashboards | [View Repo](https://github.com/mousaalbadwi/Muta-Engineering-) |
-| 👨‍💼 **Employee Manager (MousaTracks)** | CRUD admin panel, auth, basic reports | [View Repo](https://github.com/mousaalbadwi/MousaTracks) |
-| 🛒 **Tek/Goods System (Frontend)** | Responsive store UI (HTML/CSS/JS/Bootstrap) | [View Repo](https://github.com/mousaalbadwi/Goods-System) |
-| 🧾 **Import & Export (PHP/MySQL)** | Simple e-commerce backend prototype | [View Repo](https://github.com/mousaalbadwi/Import-and-Export-Goods-System) |
-| 🎥 **Camera Stream + OCR (Flutter)** | Camera streaming + text recognition experiment | [View Repo](https://github.com/mousaalbadwi/camerastream_textrecogniton) |
-
----
-
 ## 🏆 Certificates
 - **Full-Stack Web Dev** – Al-Azimah  
 - **QA Testing** – Hope Int’l  
